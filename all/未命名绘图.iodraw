@@ -17,7 +17,7 @@
           <mxGeometry x="68" y="450" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lBRgTqlMRHlkIGzRHVT8-5" value="订单状态更新为：待支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="549" width="236" height="49" as="geometry" />
+          <mxGeometry x="70" y="549" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lBRgTqlMRHlkIGzRHVT8-6" value="用户选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="648" width="188" height="49" as="geometry" />
