@@ -37,9 +37,6 @@
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-12" value="订单系统：状态更新为：已支付&#xa;触发发货履约流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1292" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-13" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="1426" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="F1OF2QtkuWWrV1LHx7Fy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -96,13 +93,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="F1OF2QtkuWWrV1LHx7Fy-12" target="F1OF2QtkuWWrV1LHx7Fy-13">
+        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="F1OF2QtkuWWrV1LHx7Fy-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="1426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-26" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-27" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="1420" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
