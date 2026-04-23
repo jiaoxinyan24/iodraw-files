@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-1" value="用户提交订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="20" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-2" value="订单系统：创建待支付订单&#xa;1. 校验商品库存&#xa;2. 校验用户信息&#xa;3. 生成唯一订单号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="119" width="252" height="49" as="geometry" />
         </mxCell>
@@ -43,9 +40,10 @@
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-13" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="1426" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="F1OF2QtkuWWrV1LHx7Fy-1" target="F1OF2QtkuWWrV1LHx7Fy-2">
+        <mxCell id="F1OF2QtkuWWrV1LHx7Fy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="F1OF2QtkuWWrV1LHx7Fy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="69" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F1OF2QtkuWWrV1LHx7Fy-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1OF2QtkuWWrV1LHx7Fy-2" target="F1OF2QtkuWWrV1LHx7Fy-3">
