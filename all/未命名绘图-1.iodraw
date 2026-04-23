@@ -37,9 +37,6 @@
         <mxCell id="cpjCvYdOFRwk87zyvsaN-38" value="订单系统：状态更新为：已支付&#xa;触发发货履约流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="2782" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="cpjCvYdOFRwk87zyvsaN-39" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108" y="2916" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="cpjCvYdOFRwk87zyvsaN-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="cpjCvYdOFRwk87zyvsaN-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -96,13 +93,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpjCvYdOFRwk87zyvsaN-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cpjCvYdOFRwk87zyvsaN-38" target="cpjCvYdOFRwk87zyvsaN-39">
+        <mxCell id="cpjCvYdOFRwk87zyvsaN-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cpjCvYdOFRwk87zyvsaN-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="170" y="2916" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpjCvYdOFRwk87zyvsaN-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cpjCvYdOFRwk87zyvsaN-52" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="1500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjCvYdOFRwk87zyvsaN-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="121" y="2920" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
