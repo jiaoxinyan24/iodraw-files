@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cpjCvYdOFRwk87zyvsaN-27" value="用户提交订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="92" y="1510" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="cpjCvYdOFRwk87zyvsaN-28" value="订单系统：创建待支付订单&#xa;1. 校验商品库存&#xa;2. 校验用户信息&#xa;3. 生成唯一订单号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="1609" width="252" height="49" as="geometry" />
         </mxCell>
@@ -43,9 +40,10 @@
         <mxCell id="cpjCvYdOFRwk87zyvsaN-39" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108" y="2916" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cpjCvYdOFRwk87zyvsaN-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cpjCvYdOFRwk87zyvsaN-27" target="cpjCvYdOFRwk87zyvsaN-28">
+        <mxCell id="cpjCvYdOFRwk87zyvsaN-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="cpjCvYdOFRwk87zyvsaN-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="170" y="1559" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpjCvYdOFRwk87zyvsaN-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cpjCvYdOFRwk87zyvsaN-28" target="cpjCvYdOFRwk87zyvsaN-29">
@@ -102,6 +100,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cpjCvYdOFRwk87zyvsaN-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="132" y="1390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
