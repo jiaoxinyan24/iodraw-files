@@ -11,7 +11,7 @@
           <mxGeometry x="66" y="597" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-4" value="锁定商品库存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="830" width="194" height="49" as="geometry" />
+          <mxGeometry x="30" y="830" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-5" value="订单状态更新为：待支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="929" width="236" height="49" as="geometry" />
