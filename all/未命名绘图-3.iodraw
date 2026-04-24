@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iVI6NHj-vrk9maScz-OM-1" value="用户提交订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="400" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-2" value="订单系统：创建待支付订单&#xa;1. 校验商品库存&#xa;2. 校验用户信息&#xa;3. 生成唯一订单号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="499" width="252" height="49" as="geometry" />
         </mxCell>
@@ -43,9 +40,10 @@
         <mxCell id="iVI6NHj-vrk9maScz-OM-13" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="1806" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iVI6NHj-vrk9maScz-OM-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-1" target="iVI6NHj-vrk9maScz-OM-2">
+        <mxCell id="iVI6NHj-vrk9maScz-OM-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="iVI6NHj-vrk9maScz-OM-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="449" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-2" target="iVI6NHj-vrk9maScz-OM-3">
@@ -105,6 +103,9 @@
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iVI6NHj-vrk9maScz-OM-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="96" y="390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
