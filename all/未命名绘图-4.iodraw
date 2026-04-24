@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zR0onkKQ51-2EhN39qHy-2" value="订单系统：创建待支付订单&#xa;1. 校验商品库存&#xa;2. 校验用户信息&#xa;3. 生成唯一订单号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zR0onkKQ51-2EhN39qHy-2" value="订单系统：创建待支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="119" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zR0onkKQ51-2EhN39qHy-3" value="库存是否充足？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
