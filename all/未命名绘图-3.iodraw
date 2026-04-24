@@ -22,9 +22,6 @@
         <mxCell id="iVI6NHj-vrk9maScz-OM-7" value="支付系统：生成支付单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iVI6NHj-vrk9maScz-OM-8" value="调用第三方支付渠道发起支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1225" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-9" value="支付渠道回调：支付成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="1341" width="236" height="49" as="geometry" />
         </mxCell>
@@ -71,14 +68,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVI6NHj-vrk9maScz-OM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-7" target="iVI6NHj-vrk9maScz-OM-8">
+        <mxCell id="iVI6NHj-vrk9maScz-OM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="1225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVI6NHj-vrk9maScz-OM-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-8" target="iVI6NHj-vrk9maScz-OM-9">
+        <mxCell id="iVI6NHj-vrk9maScz-OM-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="iVI6NHj-vrk9maScz-OM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="1291" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="iVI6NHj-vrk9maScz-OM-9" target="iVI6NHj-vrk9maScz-OM-10">
@@ -100,9 +99,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iVI6NHj-vrk9maScz-OM-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="610" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-27" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="96" y="390" width="100" height="60" as="geometry" />
