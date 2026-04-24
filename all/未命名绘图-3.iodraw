@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="24.7.17">
   <diagram name="第 1 页" id="vVD90C_f27fo4hqSogLu">
-    <mxGraphModel dx="938" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="28" y="929" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-6" value="用户选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1028" width="188" height="49" as="geometry" />
+          <mxGeometry x="30" y="1028" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iVI6NHj-vrk9maScz-OM-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="iVI6NHj-vrk9maScz-OM-2">
           <mxGeometry relative="1" as="geometry">
