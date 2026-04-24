@@ -37,9 +37,6 @@
         <mxCell id="zR0onkKQ51-2EhN39qHy-12" value="订单系统：状态更新为：已支付&#xa;触发发货履约流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1292" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="zR0onkKQ51-2EhN39qHy-13" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="1426" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="zR0onkKQ51-2EhN39qHy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="zR0onkKQ51-2EhN39qHy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -96,9 +93,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zR0onkKQ51-2EhN39qHy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="zR0onkKQ51-2EhN39qHy-12" target="zR0onkKQ51-2EhN39qHy-13">
+        <mxCell id="zR0onkKQ51-2EhN39qHy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="zR0onkKQ51-2EhN39qHy-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="1426.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zR0onkKQ51-2EhN39qHy-26" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
